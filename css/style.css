@@ -1,0 +1,101 @@
+       body{
+            background: rgb(214, 214, 214);
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .main-head{
+            text-align: center;
+        }
+        #header{
+            height: 100px;
+            color: white;
+        }
+       #wrapper{
+            border: 1px solid rgb(8, 8, 8);
+            background-color: white;
+            margin:20 10 0 10; 
+            padding: 0px 0px ; 
+        }
+        #content{
+           
+            float: left;
+            width: 800px;
+            min-height: 500px;
+            padding: 15px;
+            box-sizing: border-box;
+            position: relative;
+        }
+        #wrapper-2{
+            border: 1px solid rgb(8, 8, 8);
+            width: 950px;
+            height: 450px;
+            background-color: white;
+            margin:0px auto auto 0; 
+            padding: 0px 10px 8px 10px ; 
+        }
+        #wrapper-3{
+            border: 1px solid rgb(8, 8, 8);
+            display: inline-block;
+            background-color: white;
+           height: 400px;
+           width: 315px;
+            padding: 0px 8px 10px 10px ; 
+            margin-top: 15px;
+            margin-right:10px;
+            margin-left:200px;
+            margin-bottom:0px;
+        }
+
+       
+        #menu{
+            background-color: rgb(70, 63, 63);
+        }       
+        #menu ul{
+            margin: 0;
+            padding: 0;
+        }
+        #menu li{
+            display: inline-block;
+        }
+        #menu li a{
+            display: block;
+            padding: 10px 13px;
+            text-decoration: none;
+            color: white;
+        }
+        #menu li a:hover{
+            background: crimson;
+            color: white;}
+
+        .box{
+            background-color:rgb(200, 199, 199) ;
+            border: 1px solid rgb(8, 8, 8);
+            margin:0 100 0 0;
+            width: 200px; 
+            padding: 0px 100px 200px 10px ; 
+
+        }
+       .box-2{
+           background-color: white;
+            border: 1px solid rgb(8, 8, 8);
+          width: 325px;
+          height: 100px;
+            margin:10 0 0 1000;
+            padding: 0px 0px 10px 10px ; 
+
+        }
+        .box-3{
+            background-color: rgb(156, 151, 151);
+            border: 1px solid rgb(149, 149, 149);
+          height: 70px;
+            margin:20 10 10 10; 
+            padding: 0px 20px ; 
+        }
+        .box-3 h1{
+            text-align: center;
+        }
+
+        
+       
+         
